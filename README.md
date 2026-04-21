@@ -16,7 +16,7 @@ A console-based Student Management System built using C++ with file handling for
 
 ## How to Run
 1. Compile:
-   g++ main.cpp -o sms
+   g++ main.cpp -o sms.exe
 2. Run:
    ./sms
 
